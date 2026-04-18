@@ -17,7 +17,7 @@
 ## About Me
 
 - 🎓 B.Tech in Computer Science & Engineering — Chitkara University (2025)
-- 💼 Former Junior Software Developer at **Genius365.ai** — built API microservices, integrated CRMs (HubSpot, Monday.com, GoHighLevel), and optimized LLM workflows
+- 💼 Former Software Developer at **Genius365.ai** — built API microservices, integrated CRMs (HubSpot, Monday.com, GoHighLevel), and optimized LLM workflows
 - 🛠️ I enjoy building things that work across platforms — from mobile apps to self-hosted Raspberry Pi backends
 - 🏆 **HackersPrey CTF Competition — 3rd Place** (March 2024)
 - 📍 India
